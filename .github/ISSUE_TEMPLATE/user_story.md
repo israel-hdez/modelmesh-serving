@@ -1,8 +1,10 @@
 ---
 name: User story
 about: Create a user story for this project
-title: ""
-assignees: ""
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 ## Overview
